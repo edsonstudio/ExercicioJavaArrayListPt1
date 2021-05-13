@@ -5,7 +5,7 @@ Exercício utilizando ArrayList - BootCamp Java Developer - Digital Innovation O
 - Adicione 5 nomes: Juliana, Pedro, Carlos, Larissa e João;
 - Navegue na lista exibindo cada nome no console;
 - Substitua o nome Carlos por Roberto;
-- Retorne o nome da posição1;
+- Retorne o nome da posição 1;
 - Remova o nome da posição 4;
 - Retorne a quantidade de itens na lista;
 - Verifique se o nome Juliano existe na lista;
